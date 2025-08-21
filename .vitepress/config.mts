@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/termux-guides/', 
   srcDir: "docs",
   title: "Termux Guides",
   description: "A Growing Collection of guides for Termux",
