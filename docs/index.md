@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Termux Guides"
   text: "A Growing Collection of guides for Termux"
-  tagline: My great project tagline
+  tagline: My great project tagline.. if i had one.
   actions:
     - theme: brand
       text: Shizuku Guide
