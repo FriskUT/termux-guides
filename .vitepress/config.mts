@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Shizuku Guide' link: '/shizuku'}
+      { text: 'Shizuku Guide', link: '/shizuku'}
     ],
 
     sidebar: [
