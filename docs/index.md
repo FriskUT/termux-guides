@@ -9,10 +9,9 @@ hero:
   actions:
     - theme: brand
       text: Shizuku Guide
-      link: /markdown-examples
+      link: /shizuku
     - theme: alt
       text: Customization Guide
-      link: /api-examples
 
 features:
   - title: Shizuku Guide
