@@ -7,7 +7,7 @@ hero:
   text: "A Growing Collection of guides for Termux"
   tagline: My great project tagline.. if i had one.
   image:
-    src: /logo.png
+    src: /logo.svg
   actions:
     - theme: brand
       text: Shizuku Guide
