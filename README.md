@@ -9,7 +9,7 @@
 </div>
 
 # The Guides
-https://frisk.is-a.dev/termux-guides/
+https://termux-guides.frisk.is-a.dev
 # How to Contribute
 Fork this repository, make your changes, and make a Pull Request.
 
