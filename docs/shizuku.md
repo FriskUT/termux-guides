@@ -4,6 +4,9 @@ We will be using these apps during this guide:
 - Shizuku (of course) - [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api) - [Play Store](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=pt_BR)
 - Termux (of course) - [F-Droid](https://f-droid.org/pt_BR/packages/com.termux/) (recommended) - [Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR)
 # Tutorial:
+::: warning
+I'm not responsible for the modifications you do to YOUR device using Shizuku! The creators of all the apps that are used in this tutorial aren't, too!
+:::
 First, export the rish files to a directory, using Shizuku.
 
 The rish file should be like this:
